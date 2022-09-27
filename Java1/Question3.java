@@ -1,9 +1,9 @@
-package java1_exercise28sep;
+package java1_exercise26sep;
 
 
 import java.util.Scanner;
 
-public class exercise_28sep {
+public class exercise_26sep {
 
    static void areaOfCircle(int radius){
        // area of circle = 22 / 7 * radius * radius;
