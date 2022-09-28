@@ -1,0 +1,6 @@
+Time of Transaction: 28/09/2022 22:05:48
+Account No: 1267.0
+Amount Withdraw: 50000.0
+Amount Before Deduction: 150000.0
+Available Balance: 100000.0
+Message: Transaction Successful.
