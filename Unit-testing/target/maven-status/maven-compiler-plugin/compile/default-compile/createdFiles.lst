@@ -1,0 +1,3 @@
+com/demo/ttn/domain/Order.class
+com/demo/ttn/service/OrderService.class
+com/demo/ttn/service/EmailService.class
